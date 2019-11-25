@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextWebService", "TextWebService\TextWebService.csproj", "{5466EBFF-684D-4E62-9D87-1DF415583903}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextWebServiceClient", "TextWebServiceClient\TextWebServiceClient.csproj", "{98B8284D-D661-4A56-A36B-13E95D29606A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5466EBFF-684D-4E62-9D87-1DF415583903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5466EBFF-684D-4E62-9D87-1DF415583903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5466EBFF-684D-4E62-9D87-1DF415583903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5466EBFF-684D-4E62-9D87-1DF415583903}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98B8284D-D661-4A56-A36B-13E95D29606A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98B8284D-D661-4A56-A36B-13E95D29606A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98B8284D-D661-4A56-A36B-13E95D29606A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98B8284D-D661-4A56-A36B-13E95D29606A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA8F9A54-938C-4701-9551-F8B673DDB2FA}
+	EndGlobalSection
+EndGlobal
